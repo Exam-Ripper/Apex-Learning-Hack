@@ -1,4 +1,4 @@
-# How to hack any Apex Learning Test or Quiz
+# How to hack any Apex Learning Test or Quiz GET ALL ANSWERS
 
 In this guide, I will teach you how to hack any apex learning quiz, test, CST, TST, or Exam. We will be using a tool called Examripper. You can get it [at patreon here](https://patreon.com).  This Apex Learning answers script will hack any Apex Learning assessment and automatically finish it. 
 
